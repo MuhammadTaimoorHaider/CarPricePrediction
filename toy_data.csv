@@ -1,0 +1,101 @@
+,Make,Model,Year,Engine Fuel Type,Engine HP,Engine Cylinders,Transmission Type,Driven_Wheels,Number of Doors,Market Category,Vehicle Size,Vehicle Style,highway MPG,city mpg,Popularity,MSRP
+3995,GMC,Envoy XL,2005,regular unleaded,275.0,6.0,Automatic,rear wheel drive,4.0,Flex Fuel,Large,4Dr Suv,18,13,549,29695
+7474,Volkswagen,Passat,2016,regular unleaded,170.0,4.0,Automatic,front wheel drive,4.0,Flex Fuel,Midsize,Sedan,38,25,873,30495
+7300,Honda,Odyssey,2016,regular unleaded,248.0,6.0,Automatic,front wheel drive,4.0,Flex Fuel,Large,Passenger Minivan,28,19,2202,37650
+3148,Chevrolet,Cruze,2015,regular unleaded,138.0,4.0,Manual,front wheel drive,4.0,Flex Fuel,Midsize,Sedan,36,25,1385,16170
+747,Volvo,740,1991,regular unleaded,162.0,4.0,Automatic,rear wheel drive,4.0,"Luxury,Performance",Midsize,Sedan,20,17,870,2000
+4048,Suzuki,Equator,2012,regular unleaded,152.0,4.0,Manual,rear wheel drive,4.0,Flex Fuel,Compact,Extended Cab Pickup,23,19,481,19299
+4759,Ford,Flex,2016,premium unleaded (recommended),365.0,6.0,Automatic,all wheel drive,4.0,Crossover,Large,Wagon,21,15,5657,42600
+6423,Acura,Legend,1994,regular unleaded,230.0,6.0,Manual,front wheel drive,2.0,"Luxury,Performance",Midsize,Coupe,24,16,204,2384
+3819,Oldsmobile,Eighty-Eight Royale,1995,regular unleaded,205.0,6.0,Automatic,front wheel drive,4.0,Flex Fuel,Large,Sedan,26,17,26,2000
+379,Mazda,3,2015,regular unleaded,155.0,4.0,Automatic,front wheel drive,4.0,Flex Fuel,Compact,Sedan,41,30,586,17995
+11815,Toyota,Yaris,2015,regular unleaded,106.0,4.0,Manual,front wheel drive,2.0,Hatchback,Compact,2Dr Hatchback,37,30,2031,14845
+1688,Mazda,B-Series Pickup,1998,regular unleaded,150.0,6.0,Manual,four wheel drive,2.0,Flex Fuel,Compact,Regular Cab Pickup,20,15,586,2930
+10854,Nissan,Truck,1995,regular unleaded,134.0,4.0,Manual,four wheel drive,2.0,Flex Fuel,Compact,Regular Cab Pickup,19,16,2009,2130
+6747,Mazda,Mazdaspeed 6,2007,premium unleaded (required),274.0,4.0,Manual,all wheel drive,4.0,"Factory Tuner,Performance",Midsize,Sedan,23,17,586,27995
+1427,Kia,Amanti,2008,regular unleaded,264.0,6.0,Automatic,front wheel drive,4.0,Flex Fuel,Midsize,Sedan,24,17,1720,25495
+5331,Volkswagen,GLI,2009,premium unleaded (recommended),200.0,4.0,Manual,front wheel drive,4.0,Performance,Compact,Sedan,31,21,873,24770
+7405,Chrysler,Pacifica,2008,regular unleaded,253.0,6.0,Automatic,all wheel drive,4.0,Crossover,Large,Wagon,22,14,1013,27225
+1418,Nissan,Altima,2016,regular unleaded,270.0,6.0,Automatic,front wheel drive,4.0,Performance,Midsize,Sedan,32,22,2009,32690
+8653,Acura,RSX,2005,premium unleaded (required),210.0,4.0,Manual,front wheel drive,2.0,"Hatchback,Factory Tuner,Luxury,Performance",Compact,2Dr Hatchback,28,20,204,23670
+8414,Lexus,RC 350,2017,premium unleaded (required),306.0,6.0,Automatic,rear wheel drive,2.0,"Luxury,Performance",Midsize,Coupe,28,19,454,43010
+1634,Chevrolet,Aveo,2009,regular unleaded,107.0,4.0,Manual,front wheel drive,4.0,Hatchback,Compact,4Dr Hatchback,34,27,1385,14100
+744,Volvo,740,1991,regular unleaded,162.0,4.0,Automatic,rear wheel drive,4.0,"Luxury,Performance",Midsize,Wagon,20,17,870,2000
+1121,Audi,A7,2015,premium unleaded (required),310.0,6.0,Automatic,all wheel drive,4.0,"Luxury,Performance",Large,Sedan,28,18,3105,65900
+4202,Ford,Escape,2017,regular unleaded,168.0,4.0,Automatic,front wheel drive,4.0,Crossover,Compact,4Dr Suv,29,21,5657,23600
+4794,Ford,Focus,2017,flex-fuel (unleaded/E85),160.0,4.0,Manual,front wheel drive,4.0,Flex Fuel,Compact,Sedan,36,26,5657,16775
+700,Maybach,62,2011,premium unleaded (required),620.0,12.0,Automatic,rear wheel drive,4.0,"Exotic,Luxury,High-Performance",Large,Sedan,16,10,67,463000
+8498,Honda,Ridgeline,2017,regular unleaded,280.0,6.0,Automatic,all wheel drive,4.0,Flex Fuel,Large,Crew Cab Pickup,25,18,2202,37730
+3724,Ford,E-Series Van,2012,flex-fuel (unleaded/E85),225.0,8.0,Automatic,rear wheel drive,3.0,Flex Fuel,Large,Cargo Van,17,13,5657,27840
+7015,Toyota,MR2,1993,regular unleaded,200.0,4.0,Manual,rear wheel drive,2.0,Performance,Compact,Coupe,25,18,2031,2078
+7536,Nissan,Pathfinder,2017,regular unleaded,284.0,6.0,Automatic,front wheel drive,4.0,Crossover,Large,4Dr Suv,27,20,2009,36100
+3755,Ford,E-Series Wagon,2014,flex-fuel (unleaded/E85),225.0,8.0,Automatic,rear wheel drive,3.0,Flex Fuel,Midsize,Passenger Van,16,13,5657,30230
+5859,Subaru,Impreza WRX,2014,premium unleaded (required),305.0,4.0,Manual,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,23,17,640,37845
+3379,Mazda,CX-5,2016,regular unleaded,184.0,4.0,Automatic,all wheel drive,4.0,Crossover,Midsize,4Dr Suv,30,24,586,26515
+10479,Acura,TL,2013,premium unleaded (recommended),280.0,6.0,Automatic,front wheel drive,4.0,Luxury,Midsize,Sedan,29,20,204,35905
+5199,Pontiac,G6,2009,flex-fuel (unleaded/E85),219.0,6.0,Automatic,front wheel drive,2.0,Flex Fuel,Midsize,Coupe,26,17,210,24610
+3692,Mercedes-Benz,E-Class,2016,premium unleaded (required),302.0,6.0,Automatic,rear wheel drive,4.0,"Luxury,Performance",Midsize,Sedan,29,20,617,53100
+4374,Ford,Explorer Sport,2001,regular unleaded,203.0,6.0,Manual,rear wheel drive,2.0,Flex Fuel,Midsize,2Dr Suv,20,16,5657,21035
+6902,Lincoln,MKZ,2016,regular unleaded,231.0,4.0,Automatic,all wheel drive,4.0,Luxury,Midsize,Sedan,31,22,61,37080
+3238,Cadillac,CTS Wagon,2014,regular unleaded,270.0,6.0,Automatic,all wheel drive,4.0,Luxury,Midsize,Wagon,26,18,1624,44095
+10811,Mazda,Tribute,2009,regular unleaded,240.0,6.0,Automatic,front wheel drive,4.0,Crossover,Compact,4Dr Suv,26,18,586,23055
+8522,Kia,Rio,2016,regular unleaded,138.0,4.0,Automatic,front wheel drive,4.0,Hatchback,Compact,4Dr Hatchback,37,27,1720,17905
+5654,Volkswagen,GTI,2013,premium unleaded (recommended),200.0,4.0,Automated_Manual,front wheel drive,2.0,"Hatchback,Performance",Compact,2Dr Hatchback,33,24,873,31495
+9538,Chevrolet,Silverado 1500,2015,flex-fuel (unleaded/E85),285.0,6.0,Automatic,rear wheel drive,2.0,Flex Fuel,Large,Regular Cab Pickup,24,18,1385,26105
+5306,Mercedes-Benz,GLC-Class,2016,premium unleaded (required),241.0,4.0,Automatic,rear wheel drive,4.0,"Crossover,Luxury",Midsize,4Dr Suv,28,22,617,38950
+5910,Honda,Insight,2013,regular unleaded,98.0,4.0,Automatic,front wheel drive,4.0,"Hatchback,Hybrid",Compact,4Dr Hatchback,44,41,2202,18600
+8332,Ford,Ranger,2009,regular unleaded,207.0,6.0,Manual,four wheel drive,2.0,Flex Fuel,Compact,Extended Cab Pickup,19,15,5657,22305
+3946,Buick,Encore,2016,regular unleaded,138.0,4.0,Automatic,front wheel drive,4.0,Crossover,Compact,4Dr Suv,33,25,155,29785
+9168,Ford,Shelby GT350,2015,premium unleaded (recommended),526.0,8.0,Manual,rear wheel drive,2.0,"Factory Tuner,High-Performance",Midsize,Coupe,21,14,5657,61295
+7821,Audi,Q5,2016,diesel,240.0,6.0,Automatic,all wheel drive,4.0,"Crossover,Luxury,Diesel",Midsize,4Dr Suv,31,24,3105,55600
+4885,Kia,Forte,2017,regular unleaded,164.0,4.0,Automatic,front wheel drive,4.0,Hatchback,Compact,4Dr Hatchback,34,25,1720,21990
+429,BMW,4 Series,2015,premium unleaded (required),240.0,4.0,Automatic,rear wheel drive,2.0,Luxury,Midsize,Convertible,34,23,3916,48750
+5822,Chevrolet,Impala Limited,2016,flex-fuel (unleaded/E85),300.0,6.0,Automatic,front wheel drive,4.0,Flex Fuel,Large,Sedan,30,18,1385,25830
+10368,Buick,Terraza,2005,regular unleaded,200.0,6.0,Automatic,front wheel drive,4.0,Flex Fuel,Midsize,Passenger Minivan,23,16,155,28110
+70,Chrysler,200,2016,flex-fuel (unleaded/E85),184.0,4.0,Automatic,front wheel drive,4.0,Flex Fuel,Midsize,Sedan,36,23,1013,21995
+4918,Ford,Freestar,2005,regular unleaded,204.0,6.0,Automatic,front wheel drive,4.0,Flex Fuel,Midsize,Passenger Minivan,21,16,5657,29030
+5284,Rolls-Royce,Ghost,2014,premium unleaded (required),563.0,12.0,Automatic,rear wheel drive,4.0,"Exotic,Luxury,Performance",Large,Sedan,21,13,86,303300
+2620,Chevrolet,C/K 1500 Series,1997,regular unleaded,200.0,6.0,Manual,rear wheel drive,2.0,Flex Fuel,Large,Regular Cab Pickup,20,15,1385,2265
+11604,Volvo,XC60,2017,regular unleaded,240.0,4.0,Automatic,front wheel drive,4.0,"Crossover,Luxury",Midsize,4Dr Suv,30,23,870,40950
+7720,Ford,Probe,1996,regular unleaded,118.0,4.0,Manual,front wheel drive,2.0,Hatchback,Compact,2Dr Hatchback,30,23,5657,2000
+6232,Nissan,Juke,2016,premium unleaded (recommended),188.0,4.0,Automatic,all wheel drive,4.0,"Crossover,Hatchback",Compact,4Dr Hatchback,31,26,2009,26940
+396,Mazda,3,2016,regular unleaded,184.0,4.0,Manual,front wheel drive,4.0,"Hatchback,Performance",Compact,4Dr Hatchback,35,26,586,25445
+11874,GMC,Yukon,2016,flex-fuel (unleaded/E85),355.0,8.0,Automatic,four wheel drive,4.0,"Flex Fuel,Performance",Large,4Dr Suv,22,16,549,60000
+8773,Chevrolet,S-10,2003,regular unleaded,190.0,6.0,Manual,four wheel drive,3.0,Flex Fuel,Compact,Extended Cab Pickup,17,12,1385,23985
+6310,Buick,LaCrosse,2016,flex-fuel (unleaded/E85),304.0,6.0,Automatic,front wheel drive,4.0,Flex Fuel,Large,Sedan,28,18,155,31065
+10007,Dodge,Stratus,2004,regular unleaded,200.0,6.0,Automatic,front wheel drive,2.0,Performance,Midsize,Coupe,25,18,1851,23520
+5265,Hyundai,Genesis,2016,regular unleaded,311.0,6.0,Automatic,rear wheel drive,4.0,"Luxury,Performance",Large,Sedan,29,18,1439,38750
+6389,Nissan,Leaf,2015,electric,204.0,0.0,Direct_Drive,front wheel drive,4.0,Hatchback,Compact,4Dr Hatchback,101,126,2009,35120
+5851,Subaru,Impreza WRX,2013,premium unleaded (required),265.0,4.0,Manual,all wheel drive,4.0,Performance,Compact,Sedan,25,19,640,28295
+7793,Infiniti,Q50,2017,premium unleaded (required),300.0,6.0,Automatic,rear wheel drive,4.0,"Luxury,Performance",Midsize,Sedan,29,20,190,44650
+8513,Kia,Rio,2015,regular unleaded,138.0,4.0,Automatic,front wheel drive,4.0,Flex Fuel,Compact,Sedan,37,27,1720,18090
+6300,Buick,LaCrosse,2015,regular unleaded,182.0,4.0,Automatic,front wheel drive,4.0,"Flex Fuel,Hybrid",Large,Sedan,36,25,155,33635
+8132,Dodge,Ram Cargo,2002,regular unleaded,175.0,6.0,Automatic,rear wheel drive,3.0,Flex Fuel,Large,Cargo Van,15,13,1851,21430
+2254,Toyota,Camry,2016,regular unleaded,178.0,4.0,Automatic,front wheel drive,4.0,Flex Fuel,Midsize,Sedan,35,25,2031,23070
+2516,Oldsmobile,Ciera,1995,regular unleaded,160.0,6.0,Automatic,front wheel drive,4.0,Flex Fuel,Midsize,Wagon,26,17,26,2000
+9714,Hyundai,Sonata Hybrid,2016,regular unleaded,193.0,4.0,Automatic,front wheel drive,4.0,Hybrid,Midsize,Sedan,43,39,1439,30100
+6504,Lincoln,LS,2005,premium unleaded (required),232.0,6.0,Automatic,rear wheel drive,4.0,"Luxury,Performance",Midsize,Sedan,24,17,61,36990
+5778,Mitsubishi,i-MiEV,2014,electric,204.0,6.0,Direct_Drive,rear wheel drive,4.0,Hatchback,Compact,4Dr Hatchback,99,126,436,22995
+4705,Honda,Fit EV,2013,electric,204.0,0.0,Direct_Drive,front wheel drive,4.0,Hatchback,Compact,4Dr Hatchback,105,132,2202,36625
+8236,Dodge,Ramcharger,1993,regular unleaded,230.0,8.0,Automatic,four wheel drive,2.0,Flex Fuel,Midsize,2Dr Suv,15,11,1851,2000
+7717,Ford,Probe,1995,regular unleaded,164.0,6.0,Manual,front wheel drive,2.0,"Hatchback,Performance",Compact,2Dr Hatchback,24,18,5657,2000
+2009,Porsche,Boxster,2016,premium unleaded (required),315.0,6.0,Manual,rear wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,28,20,1715,63900
+5700,HUMMER,H3,2010,regular unleaded,239.0,5.0,Automatic,four wheel drive,4.0,Luxury,Midsize,4Dr Suv,18,14,130,38365
+4220,Suzuki,Esteem,2000,regular unleaded,122.0,4.0,Manual,front wheel drive,4.0,Flex Fuel,Compact,Sedan,32,24,481,2000
+5837,Chevrolet,Impala,2016,regular unleaded,195.0,4.0,Automatic,front wheel drive,4.0,Flex Fuel,Large,Sedan,31,22,1385,27095
+3468,Dodge,Dakota,2009,regular unleaded,210.0,6.0,Automatic,rear wheel drive,4.0,Flex Fuel,Compact,Extended Cab Pickup,20,15,1851,22560
+4580,Ford,F-150,2017,flex-fuel (unleaded/E85),385.0,8.0,Automatic,four wheel drive,4.0,Flex Fuel,Large,Extended Cab Pickup,21,15,5657,35870
+9763,Chevrolet,Sonic,2015,regular unleaded,138.0,4.0,Automatic,front wheel drive,4.0,Flex Fuel,Compact,Sedan,37,27,1385,19680
+19,Audi,100,1992,regular unleaded,172.0,6.0,Automatic,all wheel drive,4.0,Luxury,Midsize,Wagon,20,16,3105,2000
+10841,Mazda,Truck,2003,regular unleaded,135.0,4.0,Manual,rear wheel drive,2.0,Flex Fuel,Compact,Regular Cab Pickup,26,21,586,13930
+9407,GMC,Sierra 1500HD,2006,regular unleaded,300.0,8.0,Automatic,four wheel drive,4.0,Flex Fuel,Large,Crew Cab Pickup,16,13,549,36525
+11124,Volvo,V60,2015,regular unleaded,325.0,6.0,Automatic,all wheel drive,4.0,"Luxury,High-Performance",Midsize,Wagon,28,19,870,45150
+8390,Toyota,RAV4,2016,regular unleaded,176.0,4.0,Automatic,front wheel drive,4.0,Crossover,Midsize,4Dr Suv,31,24,2031,24350
+3822,Oldsmobile,Eighty-Eight Royale,1995,regular unleaded,225.0,6.0,Automatic,front wheel drive,4.0,Flex Fuel,Large,Sedan,26,17,26,2000
+6081,Volkswagen,Jetta SportWagen,2014,diesel,140.0,4.0,Automated_Manual,front wheel drive,4.0,Diesel,Compact,Wagon,39,29,873,27665
+3254,Cadillac,CTS,2015,premium unleaded (recommended),272.0,4.0,Automatic,all wheel drive,4.0,"Luxury,Performance",Large,Sedan,28,19,1624,57670
+4047,Suzuki,Equator,2011,regular unleaded,152.0,4.0,Automatic,rear wheel drive,4.0,Flex Fuel,Compact,Extended Cab Pickup,22,17,481,22479
+3773,Mitsubishi,Eclipse Spyder,2011,regular unleaded,162.0,4.0,Automatic,front wheel drive,2.0,Flex Fuel,Compact,Convertible,27,20,436,27999
+5719,Chevrolet,HHR,2010,flex-fuel (unleaded/E85),155.0,4.0,Manual,front wheel drive,4.0,Flex Fuel,Compact,Wagon,32,22,1385,19030
+6062,Volkswagen,Jetta SportWagen,2012,diesel,140.0,4.0,Automated_Manual,front wheel drive,4.0,Diesel,Compact,Wagon,39,29,873,26640
+4084,Lexus,ES 250,1990,regular unleaded,156.0,6.0,Manual,front wheel drive,4.0,Luxury,Compact,Sedan,24,17,454,2000
